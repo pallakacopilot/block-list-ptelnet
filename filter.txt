@@ -7,5 +7,5 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
-||cerdas.com^
-||xnxx.com^
+# [cerdas.com]
+127.0.0.1 cerdas.com
