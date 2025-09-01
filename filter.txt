@@ -10,3 +10,11 @@
 # [cerdas.com]
 127.0.0.1 cerdas.com
 127.0.0.1 www.cerdas.com
+
+
+user_rules:
+  - '||pornhub.com^'
+  - '||xvideos.com^'
+  - '||xnxx.com^'
+  - '||redtube.com^'
+  - '||cerdas.com^'
