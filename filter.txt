@@ -1,0 +1,11 @@
+!
+! Title: PTEL NET Filter
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 1.0.36.28
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2025-09-01T06:12:14.966Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.35
+!
+||cerdas.com^
+||xnxx.com^
